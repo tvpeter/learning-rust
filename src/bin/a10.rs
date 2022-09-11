@@ -11,7 +11,7 @@
  */
 
  fn main(){
-    let count = 101;
+    let count = 100;
 
     let is_big_value = count > 100;
 
